@@ -1,0 +1,12 @@
+{
+    "name": "keombre/KosInfo",
+    "autoload": {
+        "psr-4": {
+            "Kos\\": "src/"
+        }
+    },
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "symfony/console": "^5.0"
+    }
+}
